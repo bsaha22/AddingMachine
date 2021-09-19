@@ -1,7 +1,7 @@
 package cse360assign2;
 
 public class AddingMachine {
-
+	//adding functionalityhere
 	private int total;
 	private String history;
 	
